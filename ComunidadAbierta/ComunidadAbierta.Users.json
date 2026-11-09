@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6af14631f45e1956e786a462"
+  },
+  "name": "Carlos Granados",
+  "email": "carlosgnd23@gmail.com",
+  "registrationDate": {
+    "$date": "2026-10-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af14631f45e1956e786a463"
+  },
+  "name": "René Pacheco",
+  "email": "rene.pacheco@gmail.com",
+  "registrationDate": {
+    "$date": "2026-11-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af14631f45e1956e786a464"
+  },
+  "name": "Nelson Rodriguez",
+  "email": "nelson.rodriguez@gmail.com",
+  "registrationDate": {
+    "$date": "2026-10-15T00:00:00.000Z"
+  }
+}]

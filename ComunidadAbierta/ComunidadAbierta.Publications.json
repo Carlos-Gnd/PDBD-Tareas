@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6af14631f45e1956e786a465"
+  },
+  "User_id": {
+    "$oid": "6af14631f45e1956e786a462"
+  },
+  "title": "Welcome to the community",
+  "content": "first forum post",
+  "date": {
+    "$date": "2026-10-29T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af14631f45e1956e786a466"
+  },
+  "User_id": {
+    "$oid": "6af14631f45e1956e786a463"
+  },
+  "title": "Learning MongoDB",
+  "content": "first class",
+  "date": {
+    "$date": "2026-11-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af14631f45e1956e786a467"
+  },
+  "User_id": {
+    "$oid": "6af14631f45e1956e786a464"
+  },
+  "title": "Saturday Event",
+  "content": "it starts at 8:50 a.m",
+  "date": {
+    "$date": "2026-11-05T00:00:00.000Z"
+  }
+}]
